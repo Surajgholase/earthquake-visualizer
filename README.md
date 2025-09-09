@@ -22,10 +22,8 @@ Real-time earthquake visualizer using the USGS GeoJSON feed, React, Vite, Tailwi
    ```
 4. Open the URL shown by Vite (usually http://localhost:5173).
 
-## Deploy
-- You can drop this project into CodeSandbox (Import Project) or connect the repo to Vercel/Netlify for automatic deployment.
 
 ## Notes
 - The app fetches data from:
   `https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson`
-- For submission, include a link to this ChatGPT conversation as evidence of AI-assisted work.
+  
